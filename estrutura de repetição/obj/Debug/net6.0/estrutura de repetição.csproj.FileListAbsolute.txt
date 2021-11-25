@@ -1,0 +1,15 @@
+C:\Users\jeffe\Desktop\CSharp\estrutura de repetição\bin\Debug\net6.0\estrutura de repetição.exe
+C:\Users\jeffe\Desktop\CSharp\estrutura de repetição\bin\Debug\net6.0\estrutura de repetição.deps.json
+C:\Users\jeffe\Desktop\CSharp\estrutura de repetição\bin\Debug\net6.0\estrutura de repetição.runtimeconfig.json
+C:\Users\jeffe\Desktop\CSharp\estrutura de repetição\bin\Debug\net6.0\estrutura de repetição.dll
+C:\Users\jeffe\Desktop\CSharp\estrutura de repetição\bin\Debug\net6.0\ref\estrutura de repetição.dll
+C:\Users\jeffe\Desktop\CSharp\estrutura de repetição\bin\Debug\net6.0\estrutura de repetição.pdb
+C:\Users\jeffe\Desktop\CSharp\estrutura de repetição\obj\Debug\net6.0\estrutura de repetição.csproj.AssemblyReference.cache
+C:\Users\jeffe\Desktop\CSharp\estrutura de repetição\obj\Debug\net6.0\estrutura de repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\Desktop\CSharp\estrutura de repetição\obj\Debug\net6.0\estrutura de repetição.AssemblyInfoInputs.cache
+C:\Users\jeffe\Desktop\CSharp\estrutura de repetição\obj\Debug\net6.0\estrutura de repetição.AssemblyInfo.cs
+C:\Users\jeffe\Desktop\CSharp\estrutura de repetição\obj\Debug\net6.0\estrutura de repetição.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\Desktop\CSharp\estrutura de repetição\obj\Debug\net6.0\estrutura de repetição.dll
+C:\Users\jeffe\Desktop\CSharp\estrutura de repetição\obj\Debug\net6.0\ref\estrutura de repetição.dll
+C:\Users\jeffe\Desktop\CSharp\estrutura de repetição\obj\Debug\net6.0\estrutura de repetição.pdb
+C:\Users\jeffe\Desktop\CSharp\estrutura de repetição\obj\Debug\net6.0\estrutura de repetição.genruntimeconfig.cache

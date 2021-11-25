@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeffe\\Desktop\\CSharp\\lista de exercícios\\Exercicio05\\Exercicio05.csproj": {}
+    "C:\\Users\\jeffe\\Desktop\\CSharp\\estrutura de repetição\\estrutura de repetição.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeffe\\Desktop\\CSharp\\lista de exercícios\\Exercicio05\\Exercicio05.csproj": {
+    "C:\\Users\\jeffe\\Desktop\\CSharp\\estrutura de repetição\\estrutura de repetição.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeffe\\Desktop\\CSharp\\lista de exercícios\\Exercicio05\\Exercicio05.csproj",
-        "projectName": "Exercicio05",
-        "projectPath": "C:\\Users\\jeffe\\Desktop\\CSharp\\lista de exercícios\\Exercicio05\\Exercicio05.csproj",
+        "projectUniqueName": "C:\\Users\\jeffe\\Desktop\\CSharp\\estrutura de repetição\\estrutura de repetição.csproj",
+        "projectName": "estrutura de repetição",
+        "projectPath": "C:\\Users\\jeffe\\Desktop\\CSharp\\estrutura de repetição\\estrutura de repetição.csproj",
         "packagesPath": "C:\\Users\\jeffe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeffe\\Desktop\\CSharp\\lista de exercícios\\Exercicio05\\obj\\",
+        "outputPath": "C:\\Users\\jeffe\\Desktop\\CSharp\\estrutura de repetição\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
