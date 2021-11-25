@@ -1,0 +1,15 @@
+C:\Users\jeffe\Desktop\CSharp\lista de exercícios\exercício04\bin\Debug\net6.0\exercício04.exe
+C:\Users\jeffe\Desktop\CSharp\lista de exercícios\exercício04\bin\Debug\net6.0\exercício04.deps.json
+C:\Users\jeffe\Desktop\CSharp\lista de exercícios\exercício04\bin\Debug\net6.0\exercício04.runtimeconfig.json
+C:\Users\jeffe\Desktop\CSharp\lista de exercícios\exercício04\bin\Debug\net6.0\exercício04.dll
+C:\Users\jeffe\Desktop\CSharp\lista de exercícios\exercício04\bin\Debug\net6.0\ref\exercício04.dll
+C:\Users\jeffe\Desktop\CSharp\lista de exercícios\exercício04\bin\Debug\net6.0\exercício04.pdb
+C:\Users\jeffe\Desktop\CSharp\lista de exercícios\exercício04\obj\Debug\net6.0\exercício04.csproj.AssemblyReference.cache
+C:\Users\jeffe\Desktop\CSharp\lista de exercícios\exercício04\obj\Debug\net6.0\exercício04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\Desktop\CSharp\lista de exercícios\exercício04\obj\Debug\net6.0\exercício04.AssemblyInfoInputs.cache
+C:\Users\jeffe\Desktop\CSharp\lista de exercícios\exercício04\obj\Debug\net6.0\exercício04.AssemblyInfo.cs
+C:\Users\jeffe\Desktop\CSharp\lista de exercícios\exercício04\obj\Debug\net6.0\exercício04.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\Desktop\CSharp\lista de exercícios\exercício04\obj\Debug\net6.0\exercício04.dll
+C:\Users\jeffe\Desktop\CSharp\lista de exercícios\exercício04\obj\Debug\net6.0\ref\exercício04.dll
+C:\Users\jeffe\Desktop\CSharp\lista de exercícios\exercício04\obj\Debug\net6.0\exercício04.pdb
+C:\Users\jeffe\Desktop\CSharp\lista de exercícios\exercício04\obj\Debug\net6.0\exercício04.genruntimeconfig.cache
