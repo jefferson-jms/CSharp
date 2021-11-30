@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Exercicio05
 {
@@ -8,15 +9,43 @@ namespace Exercicio05
         {
             Console.WriteLine("Digite o seu valor de hora:");
             double valorHora = Convert.ToDouble(Console.ReadLine());
-            Console
-                .WriteLine("Digite a quantidade de horas trabalhadas no mês:");
+
+            while (valorHora <= 0)
+            {
+                try
+                {
+                    Console.WriteLine("Digite o seu valor de hora:");
+                    valorHora = Convert.ToDouble(Console.ReadLine());
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"erro: {ex.Message}");
+                }
+            }
+
+            Console.WriteLine("Digite a quantidade de horas trabalhadas no mês:");
             int quantidadeHoras = Convert.ToInt32(Console.ReadLine());
+
+            while (quantidadeHoras <= 0)
+            {
+                try
+                {
+                    Console.WriteLine("Digite a quantidade de horas trabalhadas no mês:");
+                    quantidadeHoras = Convert.ToInt32(Console.ReadLine());
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"erro: {ex.Message}");
+                }
+            }
+
             double salarioBruto = valorHora * quantidadeHoras;
             double descontoSindicato = salarioBruto * 0.03;
             double descontoINSS = salarioBruto * 0.11;
             double fgts = salarioBruto * 0.08;
             double descontoIR = 0;
             double percentualDescontoIR = 0;
+
 
             if (salarioBruto > 2000 && salarioBruto <= 5000)
                 percentualDescontoIR = 0.05;

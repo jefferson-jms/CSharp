@@ -7,10 +7,23 @@ namespace Exercicio04
         public static void Main(string[] args)
         {
             Console.WriteLine("digite o valor do seu salário:");
-            string? valorSalario = Console.ReadLine();
-
-            double salario = Convert.ToDouble(valorSalario);
+            double salario = Convert.ToDouble(Console.ReadLine());
             double acrecimo = 0;
+
+            while (salario < 0)
+            {
+                try
+                {
+                    Console.WriteLine("digite o valor do seu salário:");
+                    salario = Convert.ToDouble(Console.ReadLine());
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"erro: {ex.Message}");
+                }
+            }
+
+
             if (salario <= 2800)
             {
                 acrecimo = (salario * 20) / 100;
