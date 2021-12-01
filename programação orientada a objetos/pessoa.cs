@@ -16,7 +16,17 @@ namespace ProgramacaoOrientadaObjetos.cadastro
             this.Nome = nome;
             this.Sobrenome = sobrenome;
             this.DataNascimento = dataNascimento;
+        }
+        public string calculaIdade()
+        {
+            int anos = DateTime.Now.Year - this.DataNascimento.Year;
+
+            if (this.DataNascimento.Month > DateTime.Now.Month)
+                anos--;
+
+            return $"{this.Nome} têm {anos} anos de idade.";
 
         }
+
     }
 }

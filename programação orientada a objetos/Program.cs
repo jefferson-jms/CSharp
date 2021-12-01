@@ -7,9 +7,10 @@ namespace ProgramacaoOrientadaObjetos
     {
         public static void Main(string[] args)
         {
-            Pessoa teste = new("maria", "silva", DateTime.Now);
+            Pessoa novoObjeto = new("maria", "silva", new DateTime(1995, 04, 06));
 
-            Console.WriteLine($"o nome da pessoa do novo objeto é: {teste.Nome} {teste.Sobrenome}.\ndata: {teste.DataNascimento}");
+            Console.WriteLine($"o nome da pessoa do novo objeto é: {novoObjeto.Nome} {novoObjeto.Sobrenome}. {novoObjeto.calculaIdade()}");
+
 
         }
     }
