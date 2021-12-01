@@ -1,0 +1,15 @@
+C:\Users\jeffe\Desktop\CSharp\programação orientada a objetos\obj\Debug\net6.0\programação orientada a objetos.csproj.AssemblyReference.cache
+C:\Users\jeffe\Desktop\CSharp\programação orientada a objetos\obj\Debug\net6.0\programação orientada a objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\Desktop\CSharp\programação orientada a objetos\obj\Debug\net6.0\programação orientada a objetos.AssemblyInfoInputs.cache
+C:\Users\jeffe\Desktop\CSharp\programação orientada a objetos\obj\Debug\net6.0\programação orientada a objetos.AssemblyInfo.cs
+C:\Users\jeffe\Desktop\CSharp\programação orientada a objetos\obj\Debug\net6.0\programação orientada a objetos.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\Desktop\CSharp\programação orientada a objetos\bin\Debug\net6.0\programação orientada a objetos.exe
+C:\Users\jeffe\Desktop\CSharp\programação orientada a objetos\bin\Debug\net6.0\programação orientada a objetos.deps.json
+C:\Users\jeffe\Desktop\CSharp\programação orientada a objetos\bin\Debug\net6.0\programação orientada a objetos.runtimeconfig.json
+C:\Users\jeffe\Desktop\CSharp\programação orientada a objetos\bin\Debug\net6.0\programação orientada a objetos.dll
+C:\Users\jeffe\Desktop\CSharp\programação orientada a objetos\bin\Debug\net6.0\ref\programação orientada a objetos.dll
+C:\Users\jeffe\Desktop\CSharp\programação orientada a objetos\bin\Debug\net6.0\programação orientada a objetos.pdb
+C:\Users\jeffe\Desktop\CSharp\programação orientada a objetos\obj\Debug\net6.0\programação orientada a objetos.dll
+C:\Users\jeffe\Desktop\CSharp\programação orientada a objetos\obj\Debug\net6.0\ref\programação orientada a objetos.dll
+C:\Users\jeffe\Desktop\CSharp\programação orientada a objetos\obj\Debug\net6.0\programação orientada a objetos.pdb
+C:\Users\jeffe\Desktop\CSharp\programação orientada a objetos\obj\Debug\net6.0\programação orientada a objetos.genruntimeconfig.cache
